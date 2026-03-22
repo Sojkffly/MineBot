@@ -1,0 +1,65 @@
+[2026-03-22T20:10:05.109Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:10:05.111Z] [ACTION] Executando: collect_wood | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:10:05.371Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":1}
+[2026-03-22T20:10:31.456Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:10:31.777Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":2}
+[2026-03-22T20:13:28.019Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:13:28.021Z] [ACTION] Executando: collect_wood | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:13:28.256Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":1}
+[2026-03-22T20:13:35.558Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:13:35.830Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":2}
+[2026-03-22T20:13:43.160Z] [STATUS] Bot status | {"health":{"health":20,"food":19,"position":{"x":-79,"y":68,"z":140},"inventory":{"logs":0,"planks":0,"cobblestone":0,"pickaxes":0,"iron_ingots":0,"iron_pickaxes":0,"furnace":0,"fuel":0},"goal":"progression","subGoal":"get_wood","bestActions":{"collect_wood":-0.5},"actionCount":2,"explorationRate":0.3,"mode":"exploiting"}}
+[2026-03-22T20:13:43.160Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:13:43.438Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":3}
+[2026-03-22T20:13:50.965Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:13:51.292Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":4}
+[2026-03-22T20:13:58.671Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:13:58.956Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":5}
+[2026-03-22T20:14:06.259Z] [STATUS] Bot status | {"health":{"health":20,"food":19,"position":{"x":-82,"y":68,"z":133},"inventory":{"logs":0,"planks":0,"cobblestone":0,"pickaxes":0,"iron_ingots":0,"iron_pickaxes":0,"furnace":0,"fuel":0},"goal":"progression","subGoal":"get_wood","bestActions":{"collect_wood":-0.5},"actionCount":5,"explorationRate":0.3,"mode":"exploiting"}}
+[2026-03-22T20:14:06.259Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:14:06.495Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":6}
+[2026-03-22T20:14:13.774Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:14:14.008Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":7}
+[2026-03-22T20:14:21.346Z] [DECISION] SubGoal: exploration | {"reason":{"action":"eat_food","epsilon":"0.30"}}
+[2026-03-22T20:14:21.349Z] [ACTION] Executando: eat_food | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:14:21.650Z] [INFO] Action result: eat_food | {"reward":-1,"score":"-1.00","times":1}
+[2026-03-22T20:14:28.910Z] [STATUS] Bot status | {"health":{"health":20,"food":16,"position":{"x":-89,"y":67,"z":138},"inventory":{"logs":0,"planks":0,"cobblestone":0,"pickaxes":0,"iron_ingots":0,"iron_pickaxes":0,"furnace":0,"fuel":0},"goal":"progression","subGoal":"get_wood","bestActions":{"collect_wood":-0.5,"eat_food":-1},"actionCount":8,"explorationRate":0.3,"mode":"exploring"}}
+[2026-03-22T20:14:28.911Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:14:28.915Z] [ACTION] Executando: collect_wood | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:14:29.138Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":8}
+[2026-03-22T20:14:36.397Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:14:36.645Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":9}
+[2026-03-22T20:14:43.979Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:14:44.215Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":10}
+[2026-03-22T20:14:51.505Z] [STATUS] Bot status | {"health":{"health":20,"food":16,"position":{"x":-91,"y":66,"z":133},"inventory":{"logs":0,"planks":0,"cobblestone":0,"pickaxes":0,"iron_ingots":0,"iron_pickaxes":0,"furnace":0,"fuel":0},"goal":"progression","subGoal":"get_wood","bestActions":{"collect_wood":-0.5,"eat_food":-1},"actionCount":11,"explorationRate":0.3,"mode":"exploring"}}
+[2026-03-22T20:14:51.511Z] [DECISION] SubGoal: exploration | {"reason":{"action":"collect_wood","epsilon":"0.30"}}
+[2026-03-22T20:14:51.794Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":11}
+[2026-03-22T20:14:59.098Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:14:59.336Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":12}
+[2026-03-22T20:15:06.544Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:15:06.788Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":13}
+[2026-03-22T20:15:13.986Z] [STATUS] Bot status | {"health":{"health":20,"food":16,"position":{"x":-82,"y":69,"z":122},"inventory":{"logs":0,"planks":0,"cobblestone":0,"pickaxes":0,"iron_ingots":0,"iron_pickaxes":0,"furnace":0,"fuel":0},"goal":"progression","subGoal":"get_wood","bestActions":{"collect_wood":-0.5,"eat_food":-1},"actionCount":14,"explorationRate":0.3,"mode":"exploring"}}
+[2026-03-22T20:15:13.986Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:15:14.229Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":14}
+[2026-03-22T20:15:21.474Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:15:21.719Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":15}
+[2026-03-22T20:15:28.991Z] [DECISION] SubGoal: exploration | {"reason":{"action":"flee","epsilon":"0.30"}}
+[2026-03-22T20:15:28.993Z] [ACTION] Executando: flee | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:15:29.242Z] [INFO] Action result: flee | {"reward":-0.3,"score":"-0.30","times":1}
+[2026-03-22T20:15:36.492Z] [STATUS] Bot status | {"health":{"health":20,"food":16,"position":{"x":-81,"y":68,"z":127},"inventory":{"logs":0,"planks":0,"cobblestone":0,"pickaxes":0,"iron_ingots":0,"iron_pickaxes":0,"furnace":0,"fuel":0},"goal":"progression","subGoal":"get_wood","bestActions":{"collect_wood":-0.5,"eat_food":-1,"flee":-0.3},"actionCount":17,"explorationRate":0.3,"mode":"exploring"}}
+[2026-03-22T20:15:36.497Z] [DECISION] SubGoal: exploration | {"reason":{"action":"craft","epsilon":"0.30"}}
+[2026-03-22T20:15:36.498Z] [ACTION] Executando: craft | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:15:36.499Z] [INFO] Action result: craft | {"reward":-1,"score":"-1.00","times":1}
+[2026-03-22T20:15:43.831Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:15:43.832Z] [ACTION] Executando: collect_wood | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:15:44.089Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":16}
+[2026-03-22T20:15:51.352Z] [DECISION] SubGoal: exploration | {"reason":{"action":"jump_up","epsilon":"0.30"}}
+[2026-03-22T20:15:51.354Z] [ACTION] Executando: jump_up | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:15:57.749Z] [INFO] Action result: jump_up | {"reward":0.2,"score":"0.20","times":1}
+[2026-03-22T20:16:05.033Z] [STATUS] Bot status | {"health":{"health":19,"food":15,"position":{"x":-79,"y":67,"z":132},"inventory":{"logs":0,"planks":0,"cobblestone":0,"pickaxes":0,"iron_ingots":0,"iron_pickaxes":0,"furnace":0,"fuel":0},"goal":"progression","subGoal":"get_wood","bestActions":{"collect_wood":-0.5,"eat_food":-1,"flee":-0.3,"craft":-1,"jump_up":0.2},"actionCount":20,"explorationRate":0.2,"mode":"exploring"}}
+[2026-03-22T20:16:05.034Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:16:05.038Z] [ACTION] Executando: collect_wood | {"subGoal":"get_wood","inventory":{"logs":0,"planks":0,"cobblestone":0}}
+[2026-03-22T20:16:05.331Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":17}
+[2026-03-22T20:16:12.603Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
+[2026-03-22T20:16:12.835Z] [INFO] Action result: collect_wood | {"reward":-0.5,"score":"-0.50","times":18}
+[2026-03-22T20:16:20.161Z] [DECISION] SubGoal: get_wood | {"reason":"collectando: 0/16"}
